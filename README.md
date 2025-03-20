@@ -31,6 +31,4 @@ Este projeto é um backend para uma farmácia, desenvolvido com Spring Boot, que
 - Implementar os 6 métodos CRUD.
 - Relacionar **Produto** com **Categoria** (One-to-Many).
 
----
 
-Esse formato melhora a legibilidade e organização do seu README. Agora, está mais estruturado e cada seção está claramente definida, facilitando para quem for ler entender os detalhes do projeto.
